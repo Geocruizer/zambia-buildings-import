@@ -4,11 +4,9 @@ Creating the extract for the portion of Zambia where the data is located. Once t
 
 <h1>Proposal: </h1>
 
+Akros Global Health is an organization that works to strengthen national health systems in developing countries. One of the programs Akros has initiated is mSpray, Indoor Residual Spraying (IRS) for Malaria prevention.  IRS is one of the world's best tools in fighting malaria.  Insecticides are sprayed on household walls, killing mosquitoes that spread malaria.  Stop the mosquito, stop malaria. Funded by the Global Health Bureau at USAID, mSpray is a revolutionary new tool that incorporates three processes to achieve the maximum impact for your IRS dollars.  Through this program, Akros collectes data on when to spray, what to spray, and where to spray.  Getting these three factors to line up takes lots of planning, and having the best informaiton available increases the effectiveness of a spray campaige.   
 
-
-Akros Global Health is an organization that works to strengthen national health systems in developing countries. One of the programs Akros has initiated is mSpray, Indoor Residual Spraying for Malaria prevention. Through this program, Akros collected data on the location of buildings that have been sprayed. 
-
-Akros contacted Development Seed to conduct the import of this building dataset (268k records). This data is verified by Akros Global Health contributors. This proposal suggests a one time import, with possible future imports once additional datasets have been cleaned and verified. 
+Akros contacted Development Seed to conduct the import of this building dataset (268k records). Data was verified by Akros Global Health contributors with assistance from the USAID GeoCenter's Remote Sensing Program. This proposal suggests a one time import, with possible future imports once additional datasets have been cleaned and verified. 
 
 Import process: 
 Create country extract of Zambia to compare the Akros data against
